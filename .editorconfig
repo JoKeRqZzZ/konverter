@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0017: Упростите инициализацию объекта
+dotnet_style_object_initializer = true
